@@ -552,8 +552,8 @@ function setup_log_cleanup_cron() {
 setup_log_cleanup_cron
 while true; do
     clear
-    echo "脚本由哈哈哈哈编写，推特 @ferdie_jhovie，免费开源，请勿相信收费"
-    echo "如有问题，可联系推特，仅此只有一个号"
+    echo "并行多开-反馈q331636694"
+
     echo "========== Nexus 多节点管理 =========="
     echo "1. 安装并启动新节点"
     echo "2. 显示所有节点状态"
